@@ -35,11 +35,11 @@ export class Home extends React.Component {
       <>
         <section className="card New-User-CTA">
           <div className="New-User-CTA-text-wrapper">
-            <h2 className="New-User-CTA-title">Welcome to MoneroVision!</h2>
+            <h2 className="New-User-CTA-title">Welcome to Clerici Explorer!</h2>
             <p className="New-User-CTA-text">
-              We're an open-source Monero block explorer built by the team at{' '}
-              <a target="_blank" rel="noopener noreferrer" href="https://mycrypto.com">
-                MyCrypto
+              We're an open-source Clerici block explorer built by the team at{' '}
+              <a target="_blank" rel="noopener noreferrer" href="https://clericiproject.com">
+                clericiproject
               </a>. We’re building awesome products that put the power in your hands and this is
               just the beginning of our Monero offerings. Follow us{' '}
               <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/monerovision">
